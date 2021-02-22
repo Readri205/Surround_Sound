@@ -20,6 +20,7 @@ class AuthURL(APIView):
             'client_id': CLIENT_ID
         }).prepare().url
 
+        console.log("not sure what's happening here?")
         return Response({'url': url}, status=status.HTTP_200_OK)
 
 
