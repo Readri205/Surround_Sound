@@ -1,3 +1,3 @@
-CLIENT_ID = "a1dbd7c98dc94f16a1123f90796d75db"
-CLIENT_SECRET = "ffdec10143324bd8a0ffda8708a02e71"
-REDIRECT_URI = "http://127.0.0.1:8000/spotify/redirect"
+CLIENT_ID = ""
+CLIENT_SECRET = ""
+REDIRECT_URI = "https://readri205-surround-sound-rr.herokuapp.com/spotify/redirect"
